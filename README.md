@@ -2,7 +2,7 @@
 
 使用SIR中间语言的脚本执行虚拟机
 
-此仓库已搬迁至<https://github.com/Sheng-Sheng-Man/SEVM>
+此仓库已搬迁至<https://github.com/Sheng-Sheng-Man/Sevm.Engine>
 
 ## 设计初衷
 
@@ -12,7 +12,7 @@
 
 ## 中间语言
 
-SIR：Script Inter-language <https://github.com/inmount/SIR>
+SIR：Script Inter-language <https://github.com/Sheng-Sheng-Man/Sevm.Sir>
 
 ## 虚拟机组成
 
